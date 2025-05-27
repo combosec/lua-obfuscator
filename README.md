@@ -1,5 +1,5 @@
 # 📜 ComboSec
-[![Discord](https://discord.gg/6cpCsgRctM)](https://discord.gg/6cpCsgRctM)
+[![Discord](https://discord.gg/6cpCsgRctM)](https://raw.githubusercontent.com/combosec/lua-obfuscator/refs/heads/main/1000048093-removebg-preview.png)
 ## ComboSec is a *FREE* Lua obfuscator that made in 2025
 
 # Run in
